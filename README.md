@@ -684,7 +684,7 @@ copies or substantial portions of the Software.
 
 - **Issues**: [GitHub Issues](https://github.com/Avi5205/Fyers-Algo-Bot/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/Avi5205/Fyers-Algo-Bot/discussions)
-- **Email**: [Your Email Here]
+- **Email**: [akgpcamp@gmail.com]
 
 ---
 
