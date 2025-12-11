@@ -1,0 +1,11 @@
+fyers-apiv3>=3.1.7
+pandas
+numpy
+loguru
+psycopg2-binary
+asyncpg
+SQLAlchemy
+python-dotenv
+requests>=2.31.0
+aiohttp>=3.9.3
+websocket-client>=1.6.1

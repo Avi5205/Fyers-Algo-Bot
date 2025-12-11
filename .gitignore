@@ -1,0 +1,52 @@
+# Dependencies
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+
+# Logs
+logs/
+*.log
+log/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build/Deploy
+dist/
+build/
+*.egg-info/
+
+# Fyers API Credentials (CRITICAL!)
+.env
+.env.local
+.env.*.local
+
+# Docker
+docker-compose.override.yml
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Temporary files
+*.tmp
+*.temp
