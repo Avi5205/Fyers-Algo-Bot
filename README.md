@@ -699,7 +699,7 @@ copies or substantial portions of the Software.
 
 <div align="center">
 
-**Made with ❤️ by [Avi Gaur](https://github.com/Avi5205)**
+**Made with ❤️ by [Avinash](https://github.com/Avi5205)**
 
 ⭐ Star this repo if you find it helpful!
 
